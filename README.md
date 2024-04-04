@@ -1,6 +1,6 @@
 # Grape_WebHacking
 
-### DreamHack CTF : Cookie
+### DreamHack : Cookie
 guest로 로그인
 ![guest로 로그인](https://github.com/Sixlord/Grape_WebHacking/assets/157137422/90321e50-f37b-498c-bde5-4d8ef7d83ace)
 
