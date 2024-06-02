@@ -2,10 +2,12 @@
 
 ### DreamHack : Cookie
 guest로 로그인
-![guest로 로그인](https://github.com/Sixlord/Grape_WebHacking/assets/157137422/90321e50-f37b-498c-bde5-4d8ef7d83ace)
+![image](https://github.com/Sixlord/Grape_WebHacking/assets/157137422/7dc72e4e-5b3a-43ee-9202-d62aad0dbf83)
+
 
 Cookie value admin으로 수정 후 새로고침
-![쿠키 value admin으로 수정 후 새로고침](https://github.com/Sixlord/Grape_WebHacking/assets/157137422/0fd7d0d0-74c1-4835-998a-f54c43134f6e)
+![image](https://github.com/Sixlord/Grape_WebHacking/assets/157137422/37348acb-e1ff-4ab6-90df-c04fe3963cef)
+
 
 
 
